@@ -13,7 +13,7 @@ alt="taraqr9" /></a> </p>
 
 - 🔭 I’m currently working on **Porikkha**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript, Vue JS**
 
 - 💬 Ask me about **PHP, Laravel**
 
