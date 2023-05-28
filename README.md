@@ -11,9 +11,9 @@ href="https://github.com/ryo-ma/github-profile-trophy"><img
 src="https://github-profile-trophy.vercel.app/?username=taraqr9" 
 alt="taraqr9" /></a> </p>
 
-- 🔭 I’m currently working on **Porikkha**
+- 🔭 I’m currently working on some personal project.
 
-- 🌱 I’m currently learning **Javascript, Vue JS**
+- 🌱 I’m currently learning **Laravel Nova**
 
 - 💬 Ask me about **PHP, Laravel**
 
