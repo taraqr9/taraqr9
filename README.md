@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD.Taraq Rahman</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
-
-- 🔭 I’m currently working on [Boost Your Fingers](https://github.com/taraqr9/vue-boost-your-fingers)
+<a href="https://vercel.com/taraqr9s-projects/portfolio" target="blank">Portfolio</a>
 
 - 🌱 I’m currently learning **Vue JS**
 
