@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MD.Taraq Rahman</h1>
 <h3 align="center">A passionate backend developer from Bangladesh</h3>
-<a href="[https://vercel.com/taraqr9s-projects/portfolio](https://portfolio-neon-two-77.vercel.app/)" target="blank">Portfolio</a>
+<a href="https://portfolio-neon-two-77.vercel.app/" target="blank">Portfolio</a>
 
 - 🌱 I’m currently learning **Vue JS**
 
